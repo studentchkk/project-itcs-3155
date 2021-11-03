@@ -1,0 +1,40 @@
+Group 10:
+
+Jabeer Almarri
+Connor Carroll
+Lane Gentry
+Najee Leader
+Jay Sawant
+Logan Snyder
+Kyle Van Tubbergh
+Cammeron White
+
+Datasets: 
+
+1-college users: dataset will include id , names , email college and more information regarding college student users in the app.
+2- entrepreneurs : dataset includes id , names , profession and rating of entrepreneurs who will help the college users to start their businesses.
+3- courses set: dataset will include the courses , helps and tips and videos for helping starting out entrepreneurs to know everything they need to know about setting up a business.
+4-bussinesses dataset: a fataset which will include the newly starting out businesses linked to college users or entrepreneurs ID , which will show which businesses that started out with the app and how they are doing or to finance and help out these businesses.
+
+Customers:
+
+fresh college graduates, or aspiring entrepreneurs who would like to start out a new business, our app will help them discover this new path to setting up a business, learn how to set up and what they need to do in order to start up and link up with entrepreneurs who would like to partner up with these people.
+entrepreneurs who would like to invest in new entrepreneurs and be a part of a successful startup company.
+veteran entrepreneurs and/or investors who would like to sponsor or partner up with fresh startup companies and hope to be the next best thing, working alongside the young entrepreneurs to provide details and their knowledge and experience that will prove useful to these companies for a great headstart and avoid potential mistakes they made when they started their companies.
+companies or businesses that might work alongside the entrepreneurs or the fresh companies to provide materials for businesses or provide a better cost effective solution for these businesses.
+
+Proposed project:
+
+since we only had one proposed project idea, i will only talk about it.the problem we are trying to solve is how everyone has a creative idea to start up a business, but we all know it is hard to do so from the ground up and how intimidating the whole process can be, not to mention the amount of money required to set it up and the proper connections one might need to get his/hers business going. so our project will connect these people with entrepreneurs who already have a business going and investors who are interested with the idea and will provide money in exchange for royalties or equity in the business.
+
+Product vision:
+
+Our product is meant to help aspiring entrepreneurs to start their own business after graduating from college by being a social network. A network where new entrepreneurs can connect with businesses, veteran entrepreuneurs, investors, product/service providers, and other new entrepreneurs. Through this professional social network we want not only new entrepreneurs, but even experienced entrepreneurs to have more ease of access to helpful information,products/services, and donations from fellow entrepreneurs to help their business grow.
+
+Major features:
+
+-connect new entrepreuneurs with veteran entrepreneurs to help get their businesses started.
+-connect new entrepreneurs with investors to fund their businesses.
+-help new entrepreuneurs know the ins and outs of the world of business with slef help courses and tutorials.
+-connect service/product providers with entrepreuneurs for a better cost effective solution to their businesses.
+-help investors as well as veteran entrepreuneurs get a headstart for investing in the right startup company for a better success and be partners for both parties involved.
